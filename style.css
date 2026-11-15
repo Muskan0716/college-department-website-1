@@ -1,0 +1,45 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f4f7fb;
+}
+
+h1 {
+    text-align: center;
+    color: #17365d;
+}
+
+h2 {
+    color: #24527a;
+}
+
+nav {
+    text-align: center;
+    margin: 20px 0;
+    background-color: #17365d;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin-right: 25px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: white;
+    width: 100%;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #17365d;
+    color: white;
+}
